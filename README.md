@@ -9,6 +9,10 @@ the quantities of constituents such as **alcohol**, **malic acid**, **proline** 
 **color intensity** for each sample.  The task is to classify the wines into
 three cultivars (classes) based on these measurements.
 
+LIVE DEMO
+
+https://wine-cultivar-classification-ml-ochqjuynuohwpngfcl4274.streamlit.app/
+
 ## Project Structure
 
 ```
