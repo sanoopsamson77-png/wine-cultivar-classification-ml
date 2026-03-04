@@ -1,7 +1,8 @@
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-pillow
-streamlit
+pandas>=2.0
+numpy>=1.23
+scikit-learn>=1.2
+matplotlib>=3.7
+seaborn>=0.13
+pillow>=10.0
+streamlit>=1.32
+altair>=5
